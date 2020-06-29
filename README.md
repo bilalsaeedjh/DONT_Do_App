@@ -1,16 +1,26 @@
-# not_to_do
+#Don't_Do_app
+### This app is used to  create list of the works that you want to do or not.
 
-In this project, we created an app about the tasks that we are commited not to do.
 
-## Getting Started
+![alt text](https://github.com/bilalsaeedjh/WeightOnPlanets-FlutterBasicApp/blob/master/Images/Demo_notTodo.gif?raw=true)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What you can learn from it?
+  
+   >SqlLite Database
+  
+  > BottomNavigationBars
+  
+  > Widget Tree Structure
+  
+  > Using function and algorithims in flutter
+  
+  > TextAnimations
+  
+  > UrlLaunchers in Flutter
+  
+  > Using AwesomeFonts package in Flutter
+  
+  
+Find the tutorial on [Youtube](https://www.youtube.com/channel/UCZSgQGG74K2yuEDnbG4U1tQ?view_as=subscriber)
