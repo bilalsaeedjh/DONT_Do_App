@@ -1,8 +1,8 @@
-#Don't_Do_app
+# Don't_Do_app
 ### This app is used to  create list of the works that you want to do or not.
 
 
-![alt text](https://github.com/bilalsaeedjh/WeightOnPlanets-FlutterBasicApp/blob/master/Images/Demo_notTodo.gif?raw=true)
+![alt text](https://github.com/bilalsaeedjh/DONT_Do_app/blob/master/Images/Demo_notTodo.gif?raw=true)
 
 
 
